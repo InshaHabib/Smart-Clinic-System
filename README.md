@@ -118,7 +118,7 @@ Smart Clinic is a comprehensive hospital management system designed to streamlin
 ```bash
 # Extract the ZIP file to your desired location
 # Or clone from repository
-git clone https://github.com/InshaHabib/Smart-Clinic-System.git
+git clone https://github.com/InshaHabib/Smart-Clinic-System
 cd SmartClinic
 ```
 
